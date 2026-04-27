@@ -1,0 +1,9 @@
+# Virtual Environments
+venv
+venv/
+env
+env/
+
+# Data and models
+data/
+models/
